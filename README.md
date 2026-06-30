@@ -13,10 +13,13 @@ This repository contains tools for:
 - Identifying optimal onset ($t_r$) and offset $(\tau_R)$ of averaging for the time-local propagator U(t)
 - Propagating the long-time dynamics of the TPMs with the resulting $U_\infty(\delta t) \equiv U(t \geq \tau_R)$.
 
-**Citations**
+
+
+## Citations
 
 If you use this repository or adapt the methods in your own work, please cite:
 
+```bibtex
 @article{dominic2023ugme,
   title = {Building insightful, memory-enriched models to capture long-time biochemical processes from short-time simulations},
   author = {Dominic, Anthony J. and Sayer, Thomas and Cao, Shixian and Markland, Thomas E. and Huang, Xuhui and Montoya-Castillo, Andrés},
@@ -26,9 +29,11 @@ If you use this repository or adapt the methods in your own work, please cite:
   pages = {e2221048120},
   year = {2023}
 }
+```
 
 and 
 
+```bibtex
 @article{dominic2023perspective,
   title = {Memory unlocks the future of biomolecular dynamics: Transformative tools to uncover physical insights accurately and efficiently}, 
   author = {Dominic, Anthony J. and Cao, Shixian and Huang, Xuhui and Montoya-Castillo, Andrés},
@@ -38,3 +43,4 @@ and
   pages = {9916−9927},
   year = {2023},
 }
+```
