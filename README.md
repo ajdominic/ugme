@@ -22,7 +22,7 @@ If you use this repository or adapt the methods in your own work, please cite:
 ```bibtex
 @article{dominic2023ugme,
   title = {Building insightful, memory-enriched models to capture long-time biochemical processes from short-time simulations},
-  author = {Dominic, Anthony J. and Sayer, Thomas and Cao, Shixian and Markland, Thomas E. and Huang, Xuhui and Montoya-Castillo, Andrés},
+  author = {Anthony J. Dominic III and Thomas Sayer and Siqin Cao and Thomas E. Markland and Xuhui Huang and Andrés Montoya-Castillo},
   journal = {Proceedings of the National Academy of Sciences},
   volume = {120},
   number = {12},
@@ -36,7 +36,7 @@ and
 ```bibtex
 @article{dominic2023perspective,
   title = {Memory unlocks the future of biomolecular dynamics: Transformative tools to uncover physical insights accurately and efficiently}, 
-  author = {Dominic, Anthony J. and Cao, Shixian and Huang, Xuhui and Montoya-Castillo, Andrés},
+  author = {Anthony J. Dominic III and Siqin Cao and Xuhui Huang and Andrés Montoya-Castillo},
   journal = {Journal of the American Chemical Society},
   volume = {145},
   number = {18},
